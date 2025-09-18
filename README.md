@@ -1,6 +1,3 @@
-# potential-customers-prediction
-potential-customers-prediction
-
 # Potential Customers Prediction
 
 This repository contains a machine learning project focused on identifying and segmenting potential customers using unsupervised learning techniques. The goal is to support strategic marketing efforts through data-driven customer insights.
